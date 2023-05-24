@@ -1,3 +1,1 @@
-# turborepo-basic
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-apsffz-xxdmil)
+# A basic example of using turborepo
